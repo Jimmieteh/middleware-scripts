@@ -27,10 +27,10 @@ pipeline {
                 echo 'deploy'
                 sleep 4
             }
-        }
-     stage('deploy') {
+          }
+           stage('good day jimmie') {
             steps {
-                echo 'deploy'
+                echo 'good day jimmie'
                 sleep 4
             }
         }
